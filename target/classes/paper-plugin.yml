@@ -1,0 +1,4 @@
+name: Challenger
+version: '1.0-SNAPSHOT'
+main: de.aboutcloud.challenger.Challenger
+api-version: '1.21'
